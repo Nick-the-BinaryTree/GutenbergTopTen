@@ -1,0 +1,18 @@
+html {
+  overflow: hidden;
+}
+
+svg {
+  width: 100vw;
+  height: 100vh;
+}
+
+.links {
+  stroke: #93ff9c;
+  stroke.width: 1px;
+}
+
+.nodes {
+  stroke: #fff;
+  stroke-width: 1px;
+}
